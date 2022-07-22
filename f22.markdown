@@ -16,11 +16,11 @@ permalink: /
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="/assets/people/DaBo.jpg" alt="Dan Boneh"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="/assets/people/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="/assets/people/andrew.png" alt="Andrew Miller"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="/assets/people/christine_parlour.jpg" alt="Christine Parlour"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="/assets/people/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="./assets/people/DaBo.jpg" alt="Dan Boneh"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="./assets/people/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="./assets/people/andrew.png" alt="Andrew Miller"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="./assets/people/christine_parlour.jpg" alt="Christine Parlour"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="./assets/people/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
