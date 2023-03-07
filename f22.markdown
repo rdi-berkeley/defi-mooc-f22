@@ -89,7 +89,370 @@ Please link to the course website (defi-learning.org) in your article and submit
 
 ## Syllabus (subject to change)
 
-<iframe id="syllabus" src="https://berkeley-defi.github.io/f22_syllabus" width="100%" height="700" frameborder=0> </iframe>
+<table style="table-layout: fixed; font-size: 88%;">
+   <thead>
+      <tr>
+         <th style="width: 10%;"> <i>Date</i> </th>
+         <th style="width: 20%;"> Quiz<br>(Due by <i>Date</i>) </th>
+         <th style="width: 40%;"> Asynchronous Lecture Video<br>(Watch by <i>Date</i>) </th>
+         <th style="width: 30%;"> Synchronous AMA<br>(At 10:00 AM on <i>Date</i>) </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td> 09/06 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/Pu3s6FFDq5kfXfcs8" style="text-decoration: underline;">Quiz 1</a>
+         </td>
+         <td>
+            Introduction and Overview of DeFi
+            <br>
+            [<a target="_parent" href="https://youtu.be/gX3mc83CJtQ" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/lec1-dawn-defi-mooc-intro-defi.pdf" style="font-size: 80%;"> Slides: Introduction and Overview of DeFi </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/arthur-cefi-vs-defi-2106.08157.pdf" style="font-size: 80%;"> Reading: CeFi vs. DeFi </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/defi-sok-ariah-2101.08778.pdf" style="font-size: 80%;"> Reading: DeFi SoK </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf" style="font-size: 80%;"> Reading: Schär, F., 2021 </a> </li>
+            </ul>
+         </td>
+         <td>
+            Dawn Song
+         </td>
+      </tr>
+      <tr>
+         <td> 09/13 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/KnZgwJhNhVLHtggw8" style="text-decoration: underline;">Quiz 2</a>
+         </td>
+         <td>
+            Introduction to Blockchain Technology
+            <br>
+            [<a target="_parent" href="https://www.youtube.com/watch?v=FmKbGHu7oAM" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/lec2-dan-tech-intro.pdf" style="font-size: 80%;"> Slides: Introduction to Blockchain Technology </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf" style="font-size: 80%;"> Reading: Lightning Network </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/1910.01834.pdf" style="font-size: 80%;"> Reading: Multi-Path Routing </a> </li>
+               <li> <a target="_parent" href="https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93" style="font-size: 80%;"> Reading: Rollup </a> </li>
+               <li> <a target="_parent" href="https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/" style="font-size: 80%;"> Reading: Bridges </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/bitcoin.pdf" style="font-size: 80%;"> Reading: Bitcoin Whitepaper </a> </li>
+            </ul>
+         </td>
+         <td>
+            Dan Boneh
+         </td>
+      </tr>
+      <tr>
+         <td> 09/20 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/FdvD4qvD3zLnDG1m9" style="text-decoration: underline;">Quiz 3</a>
+         </td>
+         <td>
+            Introduction to Traditional Finance
+            <br>
+            [<a target="_parent" href="https://youtu.be/hux0B-wBCwU" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 4 Slides.pdf" style="font-size: 80%;"> Slides: Introduction to Traditional Finance </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/money-in-the-modern-economy-an-introduction.pdf" style="font-size: 80%;"> Reading: Money in the Modern Economy </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/money-creation-in-the-modern-economy.pdf" style="font-size: 80%;"> Reading: Money Creation in the Modern Economy </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf" style="font-size: 80%;"> Reading: Measuring Trade Execution Costs in Financial Markets </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Biais_Glosten_spatt.pdf" style="font-size: 80%;"> Reading: Market Microstructure </a> </li>
+            </ul>
+         </td>
+         <td>
+            Christine Parlour
+            <br><a target="_parent" href="https://www.youtube.com/watch?v=eVg8zAJoCxc" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 09/27 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/nn1jnBaYzSAcRvV4A" style="text-decoration: underline;">Quiz 4</a>
+         </td>
+         <td>
+            Introduction to Smart Contracts
+            <br>
+            [<a target="_parent" href="https://youtu.be/iK93guovsXQ" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgopgX7C17qwyCOS0pNsKayEE" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 3 Slides.pdf" style="font-size: 80%;"> Slides: Introduction to Smart Contracts </a> </li>
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Cryptocurrency-and-Privacy-Law.pdf" style="font-size: 80%;"> Slides: Cryptocurrency and Privacy Law </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://firstmonday.org/ojs/index.php/fm/article/download/548/469" style="font-size: 80%;"> Reading: Formalizing and Securing Relationships on Public Networks </a> </li>
+               <li> <a target="_parent" href="https://ethereum.org/en/whitepaper/" style="font-size: 80%;"> Reading: Ethereum Whitepaper </a> </li>
+               <li> <a target="_parent" href="https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html" style="font-size: 80%;"> Reading: Introduction to Smart Contracts (Solidity Documentation) </a> </li>
+               <li> <a target="_parent" href="https://solidity-by-example.org/" style="font-size: 80%;"> Reading: Solidity by Example </a> </li>
+            </ul>
+         </td>
+         <td>
+            Peter Van Valkenburgh – “Current Topics in Crypto Regulation”
+            <br><a target="_parent" href="https://youtu.be/OO_mar88bb8" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 10/04 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/umN8nhTWv646GmKJ6" style="text-decoration: underline;">Quiz 5</a>
+         </td>
+         <td>
+            DEX
+            <br>
+            [<a target="_parent" href="https://youtu.be/pRO5YW5qb-k" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Updated Lecture 5 Slides.pdf" style="font-size: 80%;"> Slides: DEX </a> </li>
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Dan Robinson Lecture Slides.pdf" style="font-size: 80%;"> Slides: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study]) </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Analysis of Uniswap Markets.pdf" style="font-size: 80%;"> Reading: Analysis of Uniswap Markets </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/DEX with AMM Protocols.pdf" style="font-size: 80%;"> Reading: DEX with AMM Protocols </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/StableSwap.pdf" style="font-size: 80%;"> Reading: StableSwap </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Theory of AMM in DeFi.pdf" style="font-size: 80%;"> Reading: Theory of AMM in DeFi </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Uniswap v3 Core.pdf" style="font-size: 80%;"> Reading: Uniswap v3 Core Whitepaper </a> </li>
+            </ul>
+         </td>
+         <td>
+            Dan Robinson
+            <br><a target="_parent" href="https://youtu.be/Lz7g0ny99jk" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 10/11 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/6SqU4y9T2MHkFmjL9" style="text-decoration: underline;">Quiz 6</a>
+         </td>
+         <td>
+            Decentralized Lending
+            <br>
+            [<a target="_parent" href="https://www.youtube.com/watch?v=dKk9rGWDoTI" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 6 Slides.pdf" style="font-size: 80%;"> Slides: Decentralized Lending </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/A Study of DeFi Liquidations.pdf" style="font-size: 80%;"> Reading: A Study of DeFi Liquidations </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Attacking DeFi With Flash Loans.pdf" style="font-size: 80%;"> Reading: Attacking DeFi with Flash Loans </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/DeFi Protocols for Loanable Funds.pdf" style="font-size: 80%;"> Reading: DeFi Protocols for Loanable Funds </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Liquidations.pdf" style="font-size: 80%;"> Reading: Liquidations </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/The Decentralized Financial Crisis.pdf" style="font-size: 80%;"> Reading: The Decentralized Financial Crisis </a> </li>
+            </ul>
+         </td>
+         <td>
+            Andrew Miller
+            <br><a target="_parent" href="https://youtu.be/IwRfEsX07MU" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 10/18 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/FcPeWCWap2qbqh8s6" style="text-decoration: underline;">Quiz 7</a>
+         </td>
+         <td>
+            Stablecoins
+            <br>
+            [<a target="_parent" href="https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 7 Introduction Slides.pdf" style="font-size: 80%;"> Slides: Stablecoins I </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/(In)Stability for the Blockchain.pdf" style="font-size: 80%;"> Reading: (In)Stability for the Blockchain </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Stablecoins 2.0 .pdf" style="font-size: 80%;"> Reading: Stablecoins 2.0 </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Search for Stability in Crypto Assets.pdf" style="font-size: 80%;"> Reading: Search for Stability in Crypto Assets </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/While Stability Lasts.pdf" style="font-size: 80%;"> Reading: While Stability Lasts </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf" style="font-size: 80%;"> Reading: Unique Equilibrium in Currency Attacks </a> </li>
+            </ul>
+         </td>
+         <td>
+            Arthur Gervais
+            <br><a target="_parent" href="https://youtu.be/-tNSqrmMSNg" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 10/25 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/K6yVXGjXDKeLJbZLA" style="text-decoration: underline;">Quiz 8</a>
+         </td>
+         <td>
+            Oracles
+            <br>
+            [<a target="_parent" href="https://youtu.be/vFcW18ZpPZ4" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3Rtgoo70DT2YsBmNUol4134S9C9" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/COMPRESSED Oracle Lecture—DeFi course.pdf" style="font-size: 80%;"> Slides: Oracles </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/An Authenticated Data Feed for Smart Contracts.pdf" style="font-size: 80%;"> Reading: An Authenticated Data Feed for Smart Contracts </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Chainlink 2.0.pdf" style="font-size: 80%;"> Reading: Chainlink 2.0 </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Liberating Web Data Using Decentralized Oracles.pdf" style="font-size: 80%;"> Reading: Liberating Web Data Using Decentralized Oracles </a> </li>
+            </ul>
+         </td>
+         <td>
+            Ari Juels – “Non-Fungible Tokens (NFTs): Overview and Technical Frontiers.”
+            <br><a target="_parent" href="https://youtu.be/tVyS3Ut_1eE" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 11/1 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/nG7XgYHC3XPsw6TFA" style="text-decoration: underline;">Quiz 9</a>
+         </td>
+         <td>
+            Synthetics and Derivatives
+            <br>
+            [<a target="_parent" href="https://youtu.be/zzaXGqQcRZQ" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgorofqPdP4clTLzvs9ERXhSO" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 9 Slides.pdf" style="font-size: 80%;"> Slides: Synthetics And Derivatives I </a> </li>
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 9 Slides Arthur.pdf" style="font-size: 80%;"> Slides: Synthetics And Derivatives II </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Exchange-Traded Funds.pdf" style="font-size: 80%;"> Reading: Exchange-Traded Funds </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/The Economics of Central Clearing.pdf" style="font-size: 80%;"> Reading: The Economics of Central Clearing </a> </li>
+               <li> <a target="_parent" href="https://www.finra.org/rules-guidance/key-topics/margin-accounts" style="font-size: 80%;"> Reading: Margin Account Requirements </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/2021-US-Repo-Fact-Sheet.pdf" style="font-size: 80%;"> Reading: US Repo Fact Sheet (2021) </a> </li>
+            </ul>
+         </td>
+         <td>
+            N/A (<a href="https://cesc.io">CESC</a>)
+         </td>
+      </tr>
+      <tr>
+         <td> 11/8 </td>
+         <td>
+            <a target="_parent" href="http://rdi.berkeley.edu/berkeley-defi/f22" style="text-decoration: underline;">No Quiz!</a>
+         </td>
+         <td>
+            Incentive Design in DeFi (Guest Lecture)
+            <br>
+            [<a target="_parent" href="https://www.youtube.com/watch?v=_LjYvQGfxOk" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/lec-Tim-Roughgarden-incentive-design.pdf" style="font-size: 80%;"> Slides: Challenges in Cryptoeconomics </a> </li>
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/lec-Tim-Roughgarden-incentive-design-extension.pdf" style="font-size: 80%;"> Slides: Extension </a> </li>
+            </ul>
+         </td>
+         <td>
+            Tim Roughgarden
+         </td>
+      </tr>
+      <tr>
+         <td> 11/15 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/GCtxPpTewg6yPavL6" style="text-decoration: underline;">Quiz 10</a>
+         </td>
+         <td>
+            DeFi Security I
+            <br>
+            [<a target="_parent" href="https://youtu.be/pJKy5HWuFK8" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture 12 Slides.pdf" style="font-size: 80%;"> Slides: Practical Smart Contract Security </a> </li>
+            </ul>
+         </td>
+         <td>
+            Sam Sun
+            <br><a target="_parent" href="https://youtu.be/NpmSk0bmwPU" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 11/22 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/Rb67H9ZyNaAB2EjbA" style="text-decoration: underline;">Quiz 11</a>
+         </td>
+         <td>
+            DeFi Security II
+            <br>
+            [<a target="_parent" href="https://youtu.be/GIHa2GQJY1k" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Lec 13 Slides.pdf" style="font-size: 80%;"> Slides: Smart Contract Security </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Detecting and Quantifying Wash Trading.pdf" style="font-size: 80%;"> Reading: Detecting and Quantifying Wash Trading </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Flash Boys.pdf" style="font-size: 80%;"> Reading: Flash Boys </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/High Frequency Trading.pdf" style="font-size: 80%;"> Reading: High Frequency Trading </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Profit-Generating Transactions.pdf" style="font-size: 80%;"> Reading: Profit-Generating Transactions </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Quantifying Blockchain Abstractable Value.pdf" style="font-size: 80%;"> Reading: Quantifying Blockchain Abstractable Value </a> </li>
+            </ul>
+         </td>
+         <td>
+            Stani Kulechov
+            <br><a target="_parent" href="https://www.youtube.com/watch?v=PA9QrrH-ze0" style="text-decoration: underline;">Watch Recording</a>
+         </td>
+      </tr>
+      <tr>
+         <td> 11/29 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/wTRnjWiHFSAYEDgj7" style="text-decoration: underline;">Quiz 12</a>
+         </td>
+         <td>
+            Privacy on the Blockchain
+            <br>
+            [<a target="_parent" href="https://youtu.be/H3GmsxRU1Kw" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgorEzMOg2dpg7KwB5nhQHhSw" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/NEW Lecture 10 Slides.pdf" style="font-size: 80%;"> Slides: Privacy on the Blockchain </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://cs251.stanford.edu" style="font-size: 80%;"> Reading: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford) </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf" style="font-size: 80%;"> Reading: A Fistful of Bitcoins </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Succinct Non-Interactive Arguments via Linear Interactive Proofs.pdf" style="font-size: 80%;"> Reading: Succinct Non-Interactive Arguments </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Tornado Cash Whitepaper.pdf" style="font-size: 80%;"> Reading: Tornado Cash Whitepaper </a> </li>
+               <li> <a target="_parent" href="https://elementsproject.org/features/confidential-transactions/investigation" style="font-size: 80%;"> Reading: Confidential Transactions </a> </li>
+            </ul>
+         </td>
+         <td>
+            N/A
+         </td>
+      </tr>
+      <tr>
+         <td> 12/6 </td>
+         <td>
+            <a target="_parent" href="https://forms.gle/G2mh17U6XAUbRVnw8" style="text-decoration: underline;">Quiz 13</a>
+         </td>
+         <td>
+            Decentralized Identities
+            <br>
+            [<a target="_parent" href="https://www.youtube.com/watch?v=3FL-1HMKvYA" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+            [<a target="_parent" href="https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/Defi MOOC - Decentralized Identity.pptx.pdf" style="font-size: 80%;"> Slides: Decentralized Identities </a> </li>
+            </ul>
+            <ul style="margin-bottom: 0;">
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/Proof of Person.pdf" style="font-size: 80%;"> Reading: Proof of Person </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/CanDID.pdf" style="font-size: 80%;"> Reading: CanDID </a> </li>
+               <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/IPFS.pdf" style="font-size: 80%;"> Reading: IPFS </a> </li>
+               <li> <a target="_parent" href="https://www.w3.org/DesignIssues/Axioms.html#uri" style="font-size: 80%;"> Reading: Axioms of Web Architecture </a> </li>
+               <li> <a target="_parent" href="https://vitalik.ca/general/2019/12/07/quadratic.html" style="font-size: 80%;"> Reading: Quadratic Payments </a> </li>
+            </ul>
+         </td>
+         <td>
+            N/A
+         </td>
+      </tr>
+      <tr>
+         <td> 12/13 </td>
+         <td>
+            N/A
+         </td>
+         <td> Regulatory Issues in DeFi (Optional Lecture)
+            <br>
+            [<a target="_parent" href="https://youtu.be/JiOnheyxA6E" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+         </td>
+         <td>
+            N/A
+         </td>
+      </tr>
+   </tbody>
+</table>
 
 ## Course Work
 - Weekly quizzes
